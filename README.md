@@ -1,4 +1,4 @@
-# projeto_es_2015_1
+# projeto_es_2015_1 + sistema de recomendação
 Projeto desenvolvido para disciplina de Engenharia de Software 2015.1 do curso de Sistemas de Informação do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), campus Vitória da Conquista.
 
 Sobre o projeto:
