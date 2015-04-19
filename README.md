@@ -4,18 +4,10 @@ Projeto desenvolvido para disciplina de Engenharia de Software 2015.1 do curso d
 Sobre o projeto:
 Desenvolvido em python (v. 1.5), usando o framework Django (v. 2.7). Pacotes "Pillow" (imagem), "Pisa" (PDF) e Bootstrap V. 3.3.2
 
-Sobre os times:
+Sobre o time:
 Projeto desenvolvido utilizando a metodologia ágil Scrum. Os alunos foram organizados em 3 equipes (Canary, Siliqua e Sirius).
 
 Crescencio Lima (product owner) @cretchas 
-
-Equipe Canary:
-Allexandres Sampaio @allexandresampaio, 
-Daniel Silva @dansilva, 
-Danilo Lopes @loppesdan, 
-Diana Crys @dianacrys, 
-Igo Romero @igoromero e  
-Manuela Amaral @manuela1111
 
 Equipe Siliqua:
 Breno Lessa @brenolessa
@@ -24,15 +16,6 @@ Hugo Brito @hugobrito
 Maiane Salomão @maisalomao
 Matheus Sampaio @matheussampaio
 Moara Brito @moarabritto
-
-Equipe Sirius:
-Abner Carvalho @abnerscarvalho
-Cleiton Amorin @amorinclnt
-Filipe Freitas @filipefs
-Kauanna Vieira @kauannavs
-Saionara Araújo @SaionaraAraujo
-Socrátes Soares @SocratesSoares
-Talita Mercês @talitamerces
 
 :: English version ::
 
@@ -46,14 +29,6 @@ Project developed using Scrum agile methodology. The students were organized in 
 
 Crescencio Lima (product owner) @cretchas 
 
-Team Canary:
-Allexandres Sampaio @allexandresampaio, 
-Daniel Silva @dansilva, 
-Danilo Lopes @loppesdan, 
-Diana Crys @dianacrys, 
-Igo Romero @igoromero, and 
-Manuela Amaral @manuela1111
-
 Team Siliqua:
 Breno Lessa @brenolessa
 Dhiego Morais @dhiegomorais
@@ -61,12 +36,3 @@ Hugo Brito @hugobrito
 Maiane Salomão @maisalomao
 Matheus Sampaio @matheussampaio
 Moara Brito @moarabritto
-
-Team Sirius:
-Abner Carvalho @abnerscarvalho
-Cleiton Amorin @amorinclnt
-Filipe Freitas @filipefs
-Kauanna Vieira @kauannavs
-Saionara Araújo @SaionaraAraujo
-Socrátes Soares @SocratesSoares
-Talita Mercês @talitamerces
